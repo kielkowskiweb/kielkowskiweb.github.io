@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://localhost:1313/global/header/</loc>
+    <lastmod>2018-07-10T18:19:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/</loc>
+    <lastmod>2018-07-06T18:19:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/global/footer/</loc>
+    <lastmod>2018-05-25T16:23:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/datenschutz/</loc>
+    <lastmod>2018-05-25T09:47:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/haftungsausschluss/</loc>
+    <lastmod>2018-05-25T09:46:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/impressum/</loc>
+    <lastmod>2018-05-25T09:46:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/global/</loc>
+    <lastmod>2018-07-10T18:19:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
